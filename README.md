@@ -1,3 +1,1 @@
-# goit-markup-hw-01
-my first homework
-gdfgdfgfdgfdg
+it's the redme
